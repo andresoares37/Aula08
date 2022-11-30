@@ -14,6 +14,7 @@ public class Funcoes {
 			return true;
 		}
 		return false;
+		
 	}
 	
 	public static void login(String username, String password) {

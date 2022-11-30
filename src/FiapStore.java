@@ -4,7 +4,7 @@ public class FiapStore {
 	public static final int TAMANHO_CARRINHO = 5;
 
 	public static void main(String[] args) {
-
+		
 		Scanner leitor = new Scanner(System.in);
 		double[] carrinho = new double[TAMANHO_CARRINHO];
 		int opcao = 0;
